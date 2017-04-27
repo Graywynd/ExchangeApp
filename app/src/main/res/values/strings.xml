@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EchangeApp</string>
+    <string name="title_activity_palmares">PalmaresActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="devise_prompt">Choisir devise </string>
+
+    <string-array name="devise_array">
+        <item>US DOLLAR USD</item>
+        <item>EURO EUR</item>
+        <item>Japon Yen JPY</item>
+        <item>Chine Yuan CNY</item>
+        <item>GB Pound GBP</item>
+        <item>Swiss Franc CHF</item>
+        <item>Australie Dollar AUD</item>
+        <item>Inde Rupee INR</item>
+    </string-array>
+
+</resources>
